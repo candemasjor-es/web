@@ -1,0 +1,94 @@
+@charset "UTF-8";
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    background-color: #525050;
+}
+header {
+    width: 56%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 41px;
+    background-color: #D8383B;
+    border-radius: 10px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    margin-top: 29px;
+    color: #FEFEFE;
+    font-weight: bold;
+}
+h1 {
+    text-align: center;
+    font-size: 37px;
+    color: #FFFFFF;
+}
+section {
+    width: 53%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #212121;
+    border-radius: 19px;
+    margin-top: 26px;
+    padding-top: 3px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+figure {
+    width: 216px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    float: left;
+    margin-right: 15px;
+}
+.informacion {
+    float: right;
+    width: 543px;
+}
+.sinopsis {
+    clear: both;
+    text-align: justify;
+    background-color: #404040;
+    border-radius: 19px;
+    padding-left: 21px;
+    padding-right: 21px;
+    padding-top: 6px;
+    padding-bottom: 29px;
+    color: #FFFFFF;
+}
+.tralleroficial {
+    text-align: center;
+    background-color: #404040;
+    border-radius: 19px;
+    top: -90px;
+    padding-top: 4px;
+    padding-bottom: 42px;
+    margin-top: 46px;
+}
+footer {
+    background-color: #FDFDFD;
+    width: 56%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 13px;
+    border-radius: 10px;
+    text-align: center;
+    height: 43px;
+    padding-top: 26px;
+}
+iframe {
+    width: 560px;
+}
+.informacion p {
+    color: #FFFFFF;
+}
+.informacion p span {
+    color: #F6F56D;
+    font-weight: 700;
+}
